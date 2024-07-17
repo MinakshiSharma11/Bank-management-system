@@ -36,7 +36,6 @@ Open the file named "firsttime.txt" and change the value from False to True (cas
 # About:
 This project aims to create a bridge between Python and SQL and use it in real world problems/applications...
 
-This project is currently under development...
 
 # Done by:
 Minakshi sharma
